@@ -1,4 +1,4 @@
-# Deploy-a-reactjs-app-using-Jenkins-to-AWS-Lambda
+# Deploy-a-python-app-using-Jenkins-to-AWS-EKS
 
 # 1. Create an EKS Cluster using this command: eksctl create cluster --name tbcommerce --region us-east-1 --nodegroup-name linux-nodes --node-type t2.micro --nodes 2
 
